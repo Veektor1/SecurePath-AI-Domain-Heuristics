@@ -1,1 +1,1 @@
-# SecurePath-AI-Domain-Heuristics
+# SecurePath AI Domain Heuristics: Proactive Phishing Detection Framework
